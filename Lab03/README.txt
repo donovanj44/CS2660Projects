@@ -1,0 +1,3 @@
+1. Bobby could have ensured that he was on a secured WiFi network that only controlled users have access to, such as a company WiFi network, as opposed to a public WiFi network, such as that of a coffee shop.
+2. Bobby could have verified that he was accessing the bank's website over a secured HTTPS connection, rather than an insecure HTTP connection. 
+3. Bobby could have verified that he was actually accessing the bank's website, instead of the impostor website that he fell victim to, by not clicking any links directly in emails, and maintaining a standard practice for signing into his bank account.  

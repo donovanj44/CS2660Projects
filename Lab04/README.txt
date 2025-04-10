@@ -1,0 +1,1 @@
+In order to mitigate the XSS attack presented in this lab, I modified the HTML tag, which is responsible for retrieving the script, to validate the checksum of the downloaded file against a locally stored value.
